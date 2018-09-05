@@ -1,26 +1,50 @@
-# ArmsComponent
-[ ![Build Status](https://travis-ci.org/JessYanCoding/ArmsComponent.svg?branch=master) ](https://travis-ci.org/JessYanCoding/ArmsComponent)
-[ ![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat-square) ](https://developer.android.com/about/versions/android-4.1)
-[ ![License](http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square) ](http://www.apache.org/licenses/LICENSE-2.0)
-[ ![Author](https://img.shields.io/badge/Author-JessYan-orange.svg?style=flat-square) ](https://www.jianshu.com/u/1d0c0bc634db)
-[ ![QQ-Group](https://img.shields.io/badge/QQ群-301733278-orange.svg?style=flat-square) ](https://shang.qq.com/wpa/qunwpa?idkey=1a5dc5e9b2e40a780522f46877ba243eeb64405d42398643d544d3eec6624917)
+![Logo](arts/arms_component_banner_v1.0.jpg)
+
+<p align="center">
+  <a href="https://travis-ci.org/JessYanCoding/ArmsComponent">
+    <img src="https://travis-ci.org/JessYanCoding/ArmsComponent.svg?branch=master" alt="Build Status" />
+  </a>
+  <a href="https://developer.android.com/about/versions/android-4.0.html">
+    <img src="https://img.shields.io/badge/API-14%2B-blue.svg?style=flat-square" alt="Min Sdk Version" />
+  </a>
+  <a href="http://www.apache.org/licenses/LICENSE-2.0">
+    <img src="http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License" />
+  </a>
+  <a href="https://www.jianshu.com/u/1d0c0bc634db">
+    <img src="https://img.shields.io/badge/Author-JessYan-orange.svg?style=flat-square" alt="Author" />
+  </a>
+  <a href="https://shang.qq.com/wpa/qunwpa?idkey=1a5dc5e9b2e40a780522f46877ba243eeb64405d42398643d544d3eec6624917">
+    <img src="https://img.shields.io/badge/QQ群-301733278-orange.svg?style=flat-square" alt="QQ Group" />
+  </a>
+</p>
 
 
-## A complete android componentization solution, powered by [MVPArms](https://github.com/JessYanCoding/MVPArms).
-
-## MVPArms 官方快速组件化方案
-
-## Overview
-![gif](arts/ArmsComponent.gif)
-
-## Wiki
-[**Wiki Documents**](https://github.com/JessYanCoding/ArmsComponent/wiki)
-
-## Notice
-[Article](https://www.jianshu.com/p/f671dd76868f)
+## A complete android componentization solution, powered by [MVPArms](https://github.com/JessYanCoding/MVPArms) (MVPArms 官方快速组件化方案).
 
 ## Architectural
-<img src="https://raw.githubusercontent.com/JessYanCoding/ArmsComponent/master/arts/ArmsComponentArchitecture.jpeg" width="80%" height="80%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JessYanCoding/ArmsComponent/master/arts/ArmsComponentArchitecture.jpeg" width="90%" height="90%">
+</p>  
+
+## Overview
+<p align="center">
+  <img src="arts/ArmsComponent.gif"/>
+</p>  
+
+## Wiki
+[**Wiki Documents (开发前必看!!!)**](https://github.com/JessYanCoding/ArmsComponent/wiki)
+
+## Notice
+[文章介绍](https://www.jianshu.com/p/f671dd76868f)
+
+[一键搭建整体组件架构, 让您体验纯傻瓜式的组件化开发 (**开发神器, 不看后悔!**)](https://github.com/JessYanCoding/ArmsComponent-Template)
+
+[常见 Issues](https://github.com/JessYanCoding/ArmsComponent/wiki/Issues)
+
+[意见收集](https://github.com/JessYanCoding/ArmsComponent/issues/1)
+
+[ArmsComponent 依赖于 MVPArms, 学习好 MVPArms 才有利于使用 ArmsComponent](https://github.com/JessYanCoding/MVPArms/wiki)
+
 
 ## Donate
 ![alipay](https://raw.githubusercontent.com/JessYanCoding/MVPArms/master/image/pay_alipay.jpg) ![weixinpay](https://raw.githubusercontent.com/JessYanCoding/MVPArms/master/image/pay_wxpay.jpg)
